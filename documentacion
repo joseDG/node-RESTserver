@@ -1,0 +1,6 @@
+1. abrir mongo 3t robot 
+2. npm init 
+3. npm install express --save 
+4. npm install body-parse --save
+5. cuando empieza con app son midelwers son funciones que cuando
+pasa por ahi se van a ejecuatar 
